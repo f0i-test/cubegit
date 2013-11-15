@@ -1,5 +1,6 @@
 CubeGit
 =======
 
-Test repository for the Android git client *CubeGit*
+Test repository 1 for the Android git client *CubeGit*
 
+change in 1
